@@ -1,5 +1,7 @@
 # Fast Cocktails
 
+![Fast Cocktails application screenshot](src/assets/pinacolada.png)
+
 Fast Cocktails is a modern, responsive web application for discovering, viewing, and saving your favorite cocktail recipes. The project was built using Vue.js, TypeScript, and Pinia, with a focus on a clean and intuitive user interface powered by Tailwind CSS and `shadcn-vue`.
 
 For the reference, it was built in less than 1 hour.
